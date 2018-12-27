@@ -27,7 +27,7 @@
 
 **कम्प्युटरमा नेपाली किबोर्ड लेअाऊट राखेपछि देखाईने चिन्ह।**
 
-<img width="232" alt="nepali-traditional-layout2 4" src="https://user-images.githubusercontent.com/760855/50471234-4702ba80-09e6-11e9-8354-efcba11222c1.png">
+<img width="1045" alt="ne-keyboard-layout-shift-mode" src="https://user-images.githubusercontent.com/760855/50472258-96e38080-09ea-11e9-9e19-abdfb08efa5a.png">
 
 ## How to use this keyboard
 - Whenever you want Nepali typing you can switch to Nepali keyboard and then begin to use the keyboard.

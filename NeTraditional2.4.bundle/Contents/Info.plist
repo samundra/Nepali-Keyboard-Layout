@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>org.sil.ukelele.keyboardlayout.netraditonaltyping</string>
+	<key>CFBundleName</key>
+	<string>NeTraditional2.4</string>
+	<key>CFBundleVersion</key>
+	<string>2.4</string>
+	<key>KLInfo_NeTraditional2.4</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.netraditonaltyping.netraditional2.4</string>
+		<key>TISIntendedLanguage</key>
+		<string>ne</string>
+	</dict>
+</dict>
+</plist>

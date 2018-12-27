@@ -1,11 +1,11 @@
-## Nepali Keyboard Layout4.0
+## नेपाली किबोर्ड लेअाऊट४.० (Nepali Keyboard Layout4.0)
 
 ## Installation
 1) Clone this repository
 
 2) Copy `NeTraditional2.4.bundle` to `~/Library/Keyboard Layouts` folder to install for the current user.
 
-3) Add Keyboard using instruction provided below:
+3) तल दिईएका निर्देिशिका अनुसार किबोर्ड प्रतिस्थापन गर्न सक्नु हुन्छ:
 
 ```
 - Open Preferences > Keyboard
@@ -15,7 +15,7 @@
 - From the Nepali section, choose NeTraditional2.4 Keyboard Layout then click 'Add'
 ```
 
-4) Now you can use Nepali traditional typing
+4) अब तँपाई नेपाली किबोर्ड प्रयोग गर्न सक्नुहुन्छ।
 
 **Shift बटन नथिची प्रयोगमा अाउँने किबोर्ड लेअाऊट**
 
@@ -23,12 +23,12 @@
 
 **Shift बटन थिच्दा अाउने किबोर्ड लेअाऊट**
 
-<img width="1045" alt="ne-keyboard-layout-shift-mode" src="https://user-images.githubusercontent.com/760855/50471233-4702ba80-09e6-11e9-8c9f-d8f076f27e3a.png">
+<img width="1045" alt="ne-keyboard-layout-shift-mode" src="https://user-images.githubusercontent.com/760855/50472258-96e38080-09ea-11e9-9e19-abdfb08efa5a.png">
 
 **कम्प्युटरमा नेपाली किबोर्ड लेअाऊट राखेपछि देखाईने चिन्ह।**
 
-<img width="1045" alt="ne-keyboard-layout-shift-mode" src="https://user-images.githubusercontent.com/760855/50472258-96e38080-09ea-11e9-9e19-abdfb08efa5a.png">
+<img width="232" alt="nepali-traditional-layout2 4" src="https://user-images.githubusercontent.com/760855/50471234-4702ba80-09e6-11e9-8354-efcba11222c1.png">
 
-## How to use this keyboard
+## यो कसरी प्रयोग गर्ने
 - Whenever you want Nepali typing you can switch to Nepali keyboard and then begin to use the keyboard.
 

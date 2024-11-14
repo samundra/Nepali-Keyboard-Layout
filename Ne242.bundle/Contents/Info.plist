@@ -3,17 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.netraditonaltyping</string>
+	<string>org.sil.ukelele.keyboardlayout.ne</string>
 	<key>CFBundleName</key>
-	<string>NeTraditional2.4.1</string>
+	<string>Ne242</string>
 	<key>CFBundleVersion</key>
-	<string>2.4.1</string>
-	<key>KLInfo_NeTraditional2.4.1</key>
+	<string>2.4.2</string>
+	<key>KLInfo_Ne</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
+		<key>TISIconIsTemplate</key>
+		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.netraditonaltyping.netraditional2.4.1</string>
+		<string>org.sil.ukelele.keyboardlayout.ne.ne</string>
 		<key>TISIntendedLanguage</key>
 		<string>ne</string>
 	</dict>

@@ -3,7 +3,7 @@
 ## Installation
 1) Clone this repository
 
-2) Copy `NeTraditional2.4.bundle` to `~/Library/Keyboard Layouts` folder to install for the current user.
+2) Copy `Ne242.bundle` to `~/Library/Keyboard Layouts` folder to install for the current user.
 
 3) तल दिईएका निर्देशिका अनुसार किबोर्ड प्रतिस्थापन गर्न सक्नुहुन्छ:
 
@@ -12,7 +12,7 @@
 - Click on Input Sources
 - Click the '+' sign
 - Browse to Nepali section
-- From the Nepali section, choose NeTraditional2.4.1 Keyboard Layout then click 'Add'
+- From the Nepali section, choose Ne Keyboard Layout then click 'Add'
 ```
 
 4) अब तपाईं नेपाली किबोर्ड प्रयोग गर्न सक्नुहुन्छ।
@@ -31,4 +31,3 @@
 
 ## यो कसरी प्रयोग गर्ने
 - जब तपाईंलाई नेपाली किबोर्ड प्रयोग गर्नुपर्ने आवश्यकता आईपर्छ। त्यो बेला किबोर्डमा गएर बदलेर प्रयोग गर्न सकिन्छ।
-

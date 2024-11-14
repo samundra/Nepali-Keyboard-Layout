@@ -27,7 +27,7 @@
 
 **कम्प्युटरमा नेपाली किबोर्ड लेआऊट राखेपछि देखाईने चिन्ह।**
 
-<img width="232" alt="nepali-traditional-layout2 4" src="https://user-images.githubusercontent.com/760855/50471234-4702ba80-09e6-11e9-8354-efcba11222c1.png">
+<img width="232" alt="Nepali keyboard layout in menubar" src="https://github.com/user-attachments/assets/096f2b76-8523-40d3-a31d-8d584be48f5d">
 
 ## यो कसरी प्रयोग गर्ने
 - जब तपाईंलाई नेपाली किबोर्ड प्रयोग गर्नुपर्ने आवश्यकता आईपर्छ। त्यो बेला किबोर्डमा गएर बदलेर प्रयोग गर्न सकिन्छ।
